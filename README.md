@@ -53,4 +53,4 @@ py_pdf_loader.py         # PDF loader example
 - Modify and extend the chains, loaders, and parsers as needed for your LLM workflows.
 
 ## License
-This project is for educational and research purposes. See `LICENSE` for more details.
+This project is for educational and research purposes. 
