@@ -1,4 +1,4 @@
-# LangChain Project
+# LangChain 
 
 This repository contains code and utilities for working with the LangChain framework, including document loaders, text splitters, output parsers, chaining logic, and integration with Hugging Face models.
 
